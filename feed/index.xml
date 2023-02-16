@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zoe104yao.github.io/ACC2023Workshop/</link>
 	<description>Workshop</description>
-	<lastBuildDate>Mon, 02 May 2022 20:08:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Apr 2022 13:35:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,46 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Call for Extended Abstracts</title>
-		<link>https://zoe104yao.github.io/ACC2023Workshop/2022/04/30/call-for-extended-abstracts/</link>
-					<comments>https://zoe104yao.github.io/ACC2023Workshop/2022/04/30/call-for-extended-abstracts/#respond</comments>
-		
-		<dc:creator><![CDATA[Zoe104Yao]]></dc:creator>
-		<pubDate>Sat, 30 Apr 2022 17:49:00 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://zoe104yao.github.io/ACC2023Workshop/?p=335</guid>
-
-					<description><![CDATA[We are now accepting abstract submissions to the 2nd Workshop on Human-Autonomy Interaction and Integration, to be held in person on June 7, 2022 with the 2022 American Control Conference, in Atlanta, Georgia. This full-day workshop will bring together an interdisciplinary group of researchers working on human-robot systems to share their research work and perspectives, &#8230; <p class="link-more"><a href="https://zoe104yao.github.io/ACC2023Workshop/2022/04/30/call-for-extended-abstracts/" class="more-link">Continue reading<span class="screen-reader-text"> "Call for Extended Abstracts"</span></a></p>]]></description>
-										<content:encoded><![CDATA[
-<p>We are now accepting abstract submissions to the 2<sup>nd</sup> Workshop on Human-Autonomy Interaction and Integration, to be held in person on June 7, 2022 with the 2022 American Control Conference, in Atlanta, Georgia.<br><br>This full-day workshop will bring together an interdisciplinary group of researchers working on human-robot systems to share their research work and perspectives, discuss challenges and opportunities, and engage students and junior researchers to join this exciting field of research. We have envisioned that the control community will play a more crucial role in human autonomy interaction and integration by taking on challenges including joint decision making, verifiable safety, learning based adaptation, workload and comfort management, trust modeling, calibration, and control. We aim to report recent research achievements and identify these relevant challenges, as well as a review for testbed and facilities for this domain of research. This workshop will include 10 invited talks, spotlight presentations, panel discussions, and graduate student networking events.</p>
-
-
-
-<p>Topics for submission include (but are not limited to):</p>
-
-
-
-<ul><li>Design, verification, learning, and control for safe co-robots</li><li>Autonomous or assisted driving</li><li>Human-in-the-loop control of swarm robotics</li><li>Control of wearable robotics</li><li>Human-robot interaction (HRI) systems modeling and performance quantification</li><li>Imitation learning and deep learning in HRI systems</li><li>Shared control of HRI systems</li><li>Physical HRI, cognitive and social HRI<br></li></ul>
-
-
-
-<p><br><br>*** Submissions ***<br>Our workshop accepts extended abstracts (2 pgs excluding references) in IEEE two column format. The submissions will be reviewed by the workshop organizers, and accepted papers will be given a 5-min spotlight presentation (oral) along with poster presentations in the workshop. This is a non-archival workshop, meaning we also accept iterations on previous or ongoing work.<br><br>All submissions should be made through <a href="https://easychair.org/conferences/?conf=acchai2">https://easychair.org/conferences/?conf=acchai2</a>.<br><br>*** Important Dates ***<br><strong>May 18, 2022 first submission deadline</strong><br>May 25, 2022 acceptance notification<br>June 1, 2022 submission of final posters</p>
-
-
-
-<p>***Workshop registration***</p>
-
-
-
-<p>If you are interested in participating in this workshop, please register at: <a href="https://acc2022.a2c2.org/registration/">https://acc2022.a2c2.org/registration/</a>. The early bird rate will expire on May 1, 2022.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zoe104yao.github.io/ACC2023Workshop/2022/04/30/call-for-extended-abstracts/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Poster Session</title>
 		<link>https://zoe104yao.github.io/ACC2023Workshop/2021/05/17/poster-session/</link>
 					<comments>https://zoe104yao.github.io/ACC2023Workshop/2021/05/17/poster-session/#respond</comments>
